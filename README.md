@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=OtavioRMC&color=green" alt="Profile views" /> </p>
 
 - 👨‍🎓 Studying : Computer Engineering
-- 🌱 Learning: Artificial Inteligence , Computer Vision , Autonomous Vehicles , Robotics, Automation
+- 🌱 Learning: Artificial Inteligence , Computer Vision , Deep Learning , Machine Learning, Eletronics
 - 💬 Ask me about: **Python, C, C++**
 <br><br>
 
