@@ -14,6 +14,7 @@
 <a href="https://github.com/OtavioRMC">
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=OtavioRMC&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OtavioRMC&layout=compact&langs_count=7&theme=dracula"/>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=otaviormc&theme=dracula" alt="otaviormc" /></p>
 </div>
   
   <br><br>
