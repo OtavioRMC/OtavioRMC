@@ -5,7 +5,6 @@
 
 - 👨‍🎓 Studying : Computer Engineering
 - 🌱 Learning: Artificial Inteligence , Computer Vision , Deep Learning , Machine Learning, Eletronics
-- 💬 Ask me about: **Python, C, C++**
 <br><br>
 
 ## ⚙️ &nbsp;GitHub Analytics
@@ -15,15 +14,6 @@
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=OtavioRMC&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OtavioRMC&layout=compact&langs_count=7&theme=dracula"/>
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=otaviormc&theme=dracula" alt="otaviormc" /></p>
-</div>
-  
-  <br><br>
-  
-  ## 🛠 &nbsp;Tech Stack
-<div style="display: inline_block"><br>
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 </div>
   
 <br><br>
